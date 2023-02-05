@@ -1,0 +1,596 @@
+.pexels-deva-darshan-1173777-1-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1580px;
+  height: 2736px;
+  object-fit: cover;
+}
+.home-page-child,
+.home-page-item {
+  position: absolute;
+  top: 2100px;
+  left: 0;
+  background-color: rgba(217, 217, 217, 0.25);
+  width: 1440px;
+  height: 498px;
+}
+.home-page-item {
+  top: 598px;
+  background-color: rgba(0, 0, 0, 0.9);
+  height: 500px;
+}
+.extend-your-hand {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+.to-mother-earth {
+  margin: 0;
+}
+.extend-your-hand-container {
+  position: absolute;
+  top: 212px;
+  left: 95px;
+  font-size: 55px;
+}
+.donate-child {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: #000;
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 6.32px;
+  width: 161.81px;
+  height: 67px;
+}
+.donate1 {
+  position: absolute;
+  top: 16.43px;
+  left: 24.38px;
+  font-size: 25.28px;
+  font-weight: 600;
+  font-family: Montserrat;
+  color: #fff;
+  text-align: left;
+}
+.donate {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 426px;
+  left: 95px;
+  width: 161.81px;
+  height: 67px;
+}
+.join-us-in-container {
+  position: absolute;
+  top: 346px;
+  left: 95px;
+  font-size: 24px;
+  font-weight: 600;
+}
+.arrow-right-solid-3-icon,
+.arrow-right-solid-4-icon {
+  position: absolute;
+  top: 1307px;
+  left: 1241px;
+  width: 63px;
+  height: 75px;
+  overflow: hidden;
+}
+.arrow-right-solid-4-icon {
+  top: 1333px;
+  left: 142px;
+}
+.explore-child {
+  cursor: pointer;
+  border: 3px solid #fff;
+  padding: 0;
+  background-color: #000;
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 6.32px;
+  box-sizing: border-box;
+  width: 161.81px;
+  height: 67px;
+}
+.explore1 {
+  position: absolute;
+  top: 16.43px;
+  left: 11.38px;
+  font-size: 25.28px;
+  font-weight: 600;
+  font-family: Montserrat;
+  color: #fff;
+  text-align: left;
+}
+.arrow-right-solid-2-icon {
+  position: absolute;
+  top: 18.96px;
+  left: 118.83px;
+  width: 29.08px;
+  height: 29.08px;
+  overflow: hidden;
+}
+.explore {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 1003px;
+  left: 639px;
+  width: 161.81px;
+  height: 67px;
+}
+.about-us {
+  position: absolute;
+  top: 619px;
+  left: 636px;
+  font-weight: 600;
+}
+.in-todays-date-container {
+  border: 0;
+  background-color: transparent;
+  font-weight: 500;
+  font-family: Montserrat;
+  font-size: 30px;
+  position: absolute;
+  top: 686px;
+  left: 219px;
+  color: #fff;
+  text-align: center;
+  display: inline-block;
+  width: 1001px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.75);
+}
+.home-page-inner,
+.rectangle-div {
+  position: absolute;
+  top: 662px;
+  left: 640px;
+  width: 160.5px;
+  height: 2px;
+}
+.rectangle-div {
+  top: 1605px;
+  left: 0;
+  background-color: rgba(0, 0, 0, 0.9);
+  width: 1440px;
+  height: 500px;
+}
+.home-page-child1 {
+  position: absolute;
+  top: 1242px;
+  left: 256px;
+  background-color: #d9d9d9;
+  width: 280px;
+  height: 280px;
+}
+.wild-1-icon {
+  position: absolute;
+  top: 1245px;
+  left: 256px;
+  width: 279px;
+  height: 274px;
+  object-fit: cover;
+}
+.wild-has-put {
+  position: absolute;
+  top: 1258px;
+  left: 558px;
+  font-size: 28px;
+  font-weight: 600;
+  display: inline-block;
+  width: 658px;
+  height: 303px;
+}
+.join-us,
+.member-ngos {
+  position: absolute;
+  top: 1130px;
+  left: 591px;
+  font-weight: 600;
+}
+.join-us {
+  top: 1632px;
+  left: 655px;
+}
+.home-page-child2,
+.line-icon {
+  position: absolute;
+  top: 1173px;
+  left: 599px;
+  width: 242px;
+  height: 2px;
+}
+.home-page-child2 {
+  top: 1675px;
+  left: 664px;
+  width: 112px;
+}
+.see-all1 {
+  position: absolute;
+  top: 16.43px;
+  left: 16.38px;
+  font-size: 25.28px;
+  font-weight: 600;
+  font-family: Montserrat;
+  color: #fff;
+  text-align: left;
+}
+.see-all {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 1527px;
+  left: 628px;
+  width: 161.81px;
+  height: 67px;
+}
+.we-as-individuals-container {
+  position: absolute;
+  top: 1728px;
+  left: 157px;
+  font-size: 24px;
+  font-weight: 600;
+  display: inline-block;
+  width: 737px;
+  height: 271px;
+}
+.login-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 10px;
+  background-color: #000;
+  border: 3px solid #fff;
+  box-sizing: border-box;
+  width: 183px;
+  height: 69px;
+}
+.sign-in {
+  position: absolute;
+  top: 13px;
+  left: 21px;
+  font-weight: 600;
+}
+.login,
+.sign-up-child {
+  position: absolute;
+  top: 1986px;
+  left: 157px;
+  width: 183px;
+  height: 69px;
+  cursor: pointer;
+}
+.sign-up-child {
+  border: 0;
+  padding: 0;
+  background-color: #fff;
+  top: 0;
+  left: 0;
+  border-radius: 10px;
+}
+.sign-up1 {
+  position: absolute;
+  top: 13px;
+  left: 17px;
+  font-size: 36px;
+  font-weight: 600;
+  font-family: Montserrat;
+  color: #000;
+  text-align: left;
+}
+.sign-up {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 1985px;
+  left: 385px;
+  width: 183px;
+  height: 69px;
+}
+.rectangle-icon {
+  position: absolute;
+  top: 2598px;
+  left: 0;
+  width: 1440px;
+  height: 99px;
+}
+.ayudar {
+  position: absolute;
+  top: 17px;
+  left: 128px;
+  font-weight: 600;
+}
+.logo-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 109px;
+  height: 109px;
+}
+.reviving-nature {
+  position: absolute;
+  top: 73px;
+  left: 132px;
+  font-size: 16px;
+  font-weight: 600;
+}
+.logo {
+  position: absolute;
+  top: 2198px;
+  left: 129px;
+  width: 306px;
+  height: 109px;
+  font-size: 48px;
+}
+.mdifacebook-icon,
+.mditwitter-icon {
+  position: absolute;
+  top: 2497px;
+  left: 131px;
+  width: 67px;
+  height: 67px;
+  cursor: pointer;
+}
+.mditwitter-icon {
+  top: 2506px;
+  left: 379px;
+  width: 61px;
+  height: 61px;
+  overflow: hidden;
+}
+.mdiinstagram-icon {
+  position: absolute;
+  top: 2500px;
+  left: 254px;
+  width: 67px;
+  height: 67px;
+  cursor: pointer;
+}
+.drop-a-message,
+.quick-links,
+.text {
+  position: absolute;
+  top: 2214px;
+  left: 610px;
+  font-size: 38px;
+}
+.drop-a-message,
+.text {
+  top: 2213px;
+  left: 948px;
+}
+.text {
+  border: 0;
+  background-color: transparent;
+  font-family: Montserrat;
+  top: 2208px;
+  left: 1003px;
+  font-weight: 700;
+  color: #fff;
+  text-align: left;
+}
+.home-page-child3,
+.line-div {
+  position: absolute;
+  top: 2271px;
+  left: 610.5px;
+  border-top: 5px solid #fff;
+  box-sizing: border-box;
+  width: 282px;
+  height: 5px;
+}
+.home-page-child3 {
+  top: 2272.5px;
+  left: 945.5px;
+  width: 340px;
+}
+.home-about-us-container {
+  position: absolute;
+  top: 2309px;
+  left: 617px;
+  font-size: 40px;
+  font-weight: 600;
+  display: inline-block;
+  width: 247px;
+  height: 255px;
+}
+.ant-designcopyright-circle-fi-icon {
+  position: absolute;
+  top: 2620px;
+  left: 462px;
+  width: 50px;
+  height: 50px;
+}
+.copyright-reserved-2023 {
+  position: absolute;
+  top: 2620px;
+  left: 524px;
+  font-size: 40px;
+  font-weight: 500;
+  font-family: Roboto;
+}
+.mask-group-icon {
+  position: absolute;
+  top: 1711px;
+  left: 1014px;
+  width: 283px;
+  height: 287px;
+  object-fit: cover;
+}
+.home-page-child4 {
+  position: absolute;
+  top: 2314px;
+  left: 955px;
+  border-radius: 10px;
+  background-color: transparent;
+  border: 5px solid #fff;
+  box-sizing: border-box;
+  width: 349px;
+  height: 53px;
+}
+.name,
+.send,
+.your-message {
+  position: absolute;
+  top: 2323px;
+  left: 980px;
+  font-size: 25px;
+  font-weight: 600;
+}
+.send,
+.your-message {
+  top: 2400px;
+}
+.send {
+  top: 2522px;
+  left: 991px;
+}
+.home-page-child5,
+.rectangle-button {
+  border: 5px solid #fff;
+  background-color: transparent;
+  position: absolute;
+  left: 955px;
+  box-sizing: border-box;
+}
+.home-page-child5 {
+  top: 2383px;
+  border-radius: 10px;
+  width: 349px;
+  height: 92px;
+}
+.rectangle-button {
+  cursor: pointer;
+  padding: 0;
+  top: 2509px;
+  width: 138px;
+  height: 53px;
+}
+.the-earth-is {
+  font-weight: 600;
+}
+.wendell-berry1 {
+  font-weight: 800;
+}
+.the-earth-is-container {
+  position: absolute;
+  top: 2346px;
+  left: 147px;
+  font-size: 25px;
+  display: inline-block;
+  width: 340px;
+  height: 125px;
+}
+.nav-bar-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: #000;
+  width: 1440px;
+  height: 96px;
+}
+.about-us1,
+.home1 {
+  position: absolute;
+  top: 36px;
+  left: 564px;
+  font-weight: 600;
+}
+.about-us1 {
+  top: 35px;
+  left: 691px;
+  cursor: pointer;
+}
+.join-us2,
+.ngos {
+  top: 36px;
+  cursor: pointer;
+}
+.ngos {
+  position: absolute;
+  left: 857px;
+  font-weight: 600;
+}
+.join-us2 {
+  left: 979px;
+}
+.ayudar1,
+.donate2,
+.join-us2 {
+  position: absolute;
+  font-weight: 600;
+}
+.donate2 {
+  top: 36px;
+  left: 1120px;
+  cursor: pointer;
+}
+.ayudar1 {
+  top: 2px;
+  left: 68px;
+}
+.reviving-nature1 {
+  position: absolute;
+  top: 43px;
+  left: 68px;
+  font-size: 12px;
+}
+.logo-item,
+.mask-group-icon1,
+.mask-group-icon2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 64px;
+  height: 64px;
+}
+.mask-group-icon1,
+.mask-group-icon2 {
+  object-fit: cover;
+}
+.mask-group-icon2 {
+  top: 2188px;
+  left: 12px;
+  width: 109px;
+  height: 109px;
+}
+.logo1,
+.nav-bar {
+  position: absolute;
+  top: 18px;
+  left: 117px;
+  width: 194px;
+  height: 2297px;
+  font-size: 34px;
+}
+.nav-bar {
+  top: -8px;
+  left: 0;
+  width: 1440px;
+  height: 2315px;
+  font-size: 24px;
+}
+.home-page {
+  position: relative;
+  background-color: #fff;
+  width: 100%;
+  height: 2680px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 36px;
+  color: #fff;
+  font-family: Montserrat;
+}

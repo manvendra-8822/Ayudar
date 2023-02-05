@@ -1,0 +1,313 @@
+.pexels-deva-darshan-1173777-2-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1440px;
+  height: 1024px;
+  object-fit: cover;
+}
+.sign-up-item {
+  position: absolute;
+  top: 273px;
+  left: 357px;
+  border-radius: 20px;
+  background-color: rgba(217, 217, 217, 0.9);
+  width: 726px;
+  height: 590px;
+}
+.create-your-new,
+.register {
+  position: absolute;
+  font-weight: 600;
+}
+.register {
+  top: 302px;
+  left: 637px;
+  font-size: 36px;
+  color: #228b22;
+}
+.create-your-new {
+  top: 344px;
+  left: 609px;
+  font-size: 20px;
+}
+.rectangle-input,
+.sign-up-inner {
+  border: 0;
+  background-color: rgba(34, 139, 34, 0.25);
+}
+.sign-up-inner {
+  position: absolute;
+  top: 396px;
+  left: 558px;
+  border-radius: 10px;
+  width: 324px;
+  height: 42px;
+}
+.rectangle-input {
+  top: 460px;
+}
+.rectangle-input,
+.sign-up-child1,
+.sign-up-child2 {
+  position: absolute;
+  left: 558px;
+  border-radius: 10px;
+  width: 324px;
+  height: 42px;
+}
+.sign-up-child1 {
+  border: 0;
+  background-color: rgba(34, 139, 34, 0.25);
+  top: 524px;
+}
+.sign-up-child2 {
+  top: 595px;
+  background-color: rgba(34, 139, 34, 0.8);
+}
+.name1 {
+  position: absolute;
+  top: 407px;
+  font-weight: 600;
+}
+.email,
+.name1,
+.password {
+  left: 598px;
+  color: rgba(0, 0, 0, 0.65);
+}
+.email {
+  position: absolute;
+  top: 471px;
+  font-weight: 600;
+}
+.password {
+  top: 534px;
+}
+.or-continue-with,
+.password,
+.sign-up3 {
+  position: absolute;
+  font-weight: 600;
+}
+.sign-up3 {
+  top: 605px;
+  left: 689px;
+  color: #fff;
+}
+.or-continue-with {
+  top: 0;
+  left: 0;
+}
+.or-continue-with-wrapper {
+  position: absolute;
+  top: 682px;
+  left: 668px;
+  width: 102px;
+  height: 16px;
+  font-size: 14px;
+}
+.already-have-an,
+.sign-in1 {
+  position: absolute;
+  font-weight: 600;
+}
+.sign-in1 {
+  top: 1px;
+  left: 167px;
+  cursor: pointer;
+}
+.already-have-an {
+  top: 0;
+  left: 0;
+  color: rgba(0, 0, 0, 0.6);
+}
+.sign-in-parent {
+  position: absolute;
+  top: 802px;
+  left: 615px;
+  width: 210px;
+  height: 17px;
+  font-size: 14px;
+}
+.sign-up-child3,
+.sign-up-child4 {
+  position: absolute;
+  top: 691.5px;
+  left: 556.5px;
+  border-top: 3px solid #000;
+  box-sizing: border-box;
+  width: 110px;
+  height: 3px;
+}
+.sign-up-child4 {
+  top: 690.5px;
+  left: 768.5px;
+}
+.ellipse-icon,
+.sign-up-child5,
+.sign-up-child6 {
+  position: absolute;
+  top: 724px;
+  left: 599px;
+  width: 48px;
+  height: 46px;
+}
+.sign-up-child5,
+.sign-up-child6 {
+  left: 692px;
+}
+.sign-up-child6 {
+  left: 785px;
+}
+.apple-2-icon,
+.facebook-1-icon,
+.google-1-icon {
+  position: absolute;
+  top: 728px;
+  left: 795px;
+  width: 25px;
+  height: 34px;
+  overflow: hidden;
+}
+.facebook-1-icon,
+.google-1-icon {
+  top: 730px;
+  left: 606px;
+  width: 34px;
+}
+.google-1-icon {
+  top: 731px;
+  left: 701px;
+  width: 29px;
+  height: 31px;
+}
+.envelope-solid-1-icon,
+.user-solid-1-icon,
+.vector-icon {
+  position: absolute;
+  top: 472px;
+  left: 568px;
+  width: 23px;
+  height: 23px;
+  overflow: hidden;
+}
+.user-solid-1-icon,
+.vector-icon {
+  top: 404px;
+  left: 567px;
+  width: 25px;
+  height: 28px;
+}
+.vector-icon {
+  height: 2.25%;
+  width: 1.39%;
+  top: 52.05%;
+  right: 59.1%;
+  bottom: 45.7%;
+  left: 39.51%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.nav-bar-item {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: #000;
+  width: 1440px;
+  height: 96px;
+}
+.about-us2,
+.home2 {
+  position: absolute;
+  top: 36px;
+  left: 564px;
+  font-weight: 600;
+}
+.about-us2 {
+  top: 35px;
+  left: 691px;
+  cursor: pointer;
+}
+.join-us3,
+.ngos1 {
+  top: 36px;
+  cursor: pointer;
+}
+.ngos1 {
+  position: absolute;
+  left: 857px;
+  font-weight: 600;
+}
+.join-us3 {
+  left: 979px;
+}
+.ayudar2,
+.donate3,
+.join-us3 {
+  position: absolute;
+  font-weight: 600;
+}
+.donate3 {
+  top: 36px;
+  left: 1120px;
+  cursor: pointer;
+}
+.ayudar2 {
+  top: 2px;
+  left: 68px;
+}
+.reviving-nature2 {
+  position: absolute;
+  top: 43px;
+  left: 68px;
+  font-size: 12px;
+}
+.logo-inner,
+.mask-group-icon3,
+.mask-group-icon4 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 64px;
+  height: 64px;
+}
+.mask-group-icon3,
+.mask-group-icon4 {
+  object-fit: cover;
+}
+.mask-group-icon4 {
+  top: 2206px;
+  left: 129px;
+  width: 109px;
+  height: 109px;
+}
+.logo2,
+.nav-bar1 {
+  position: absolute;
+  top: 18px;
+  left: 117px;
+  width: 194px;
+  height: 2297px;
+  font-size: 34px;
+}
+.nav-bar1 {
+  top: 0;
+  left: 0;
+  width: 1440px;
+  height: 2315px;
+  font-size: 24px;
+  color: #fff;
+  font-family: Montserrat;
+}
+.sign-up2 {
+  position: relative;
+  background-color: #fff;
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 18px;
+  color: #000;
+  font-family: Roboto;
+}

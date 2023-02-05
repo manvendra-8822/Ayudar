@@ -1,0 +1,247 @@
+.pexels-deva-darshan-1173777-2-icon2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1512px;
+  height: 1087px;
+  object-fit: cover;
+}
+.payment-child {
+  position: absolute;
+  top: 180px;
+  left: 311px;
+  border-radius: 20px;
+  background-color: rgba(217, 217, 217, 0.95);
+  width: 891px;
+  height: 697px;
+}
+.brandicomastercard-icon,
+.lacc-visa-icon {
+  position: absolute;
+  top: 492px;
+  left: 844px;
+  width: 49px;
+  height: 49px;
+  overflow: hidden;
+}
+.lacc-visa-icon {
+  top: 491px;
+  left: 779px;
+  width: 54px;
+  height: 54px;
+}
+.choose-how-to,
+.your-payment-is {
+  position: absolute;
+  font-weight: 600;
+}
+.choose-how-to {
+  top: 417px;
+  left: 637px;
+  font-size: 28px;
+  font-family: Roboto;
+}
+.your-payment-is {
+  top: 36px;
+  left: 0;
+}
+.group-child {
+  position: absolute;
+  top: 0;
+  left: 100px;
+  width: 36px;
+  height: 36px;
+}
+.your-payment-is-encrpyted-parent {
+  position: absolute;
+  top: 293px;
+  left: 636px;
+  width: 240px;
+  height: 59px;
+  font-size: 20px;
+  font-family: Roboto;
+}
+.payment-item {
+  position: absolute;
+  top: 482px;
+  left: 530px;
+  border-radius: 15px;
+  background-color: transparent;
+  border: 5px solid #000;
+  box-sizing: border-box;
+  width: 453px;
+  height: 75px;
+}
+.donate-now {
+  position: absolute;
+  top: 207px;
+  left: 620px;
+  font-size: 36px;
+  color: #228b22;
+}
+.cancel-child,
+.payment-inner {
+  cursor: pointer;
+  padding: 0;
+  position: absolute;
+  border-radius: 15px;
+}
+.payment-inner {
+  border: 5px solid #000;
+  background-color: transparent;
+  top: 599px;
+  left: 530px;
+  box-sizing: border-box;
+  width: 453px;
+  height: 75px;
+}
+.cancel-child {
+  border: 0;
+  background-color: #228b22;
+  top: 0;
+  left: 0;
+  width: 140px;
+  height: 51px;
+}
+.cancel1 {
+  position: absolute;
+  top: 8px;
+  left: 21px;
+  font-size: 28px;
+  font-weight: 600;
+  font-family: Montserrat;
+  color: rgba(255, 255, 255, 0.85);
+  text-align: left;
+}
+.cancel {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 716px;
+  left: 687px;
+  width: 140px;
+  height: 51px;
+}
+.creditdebit-card,
+.upiwallet {
+  position: absolute;
+  top: 502px;
+  left: 552px;
+  font-weight: 600;
+  color: #000;
+}
+.upiwallet {
+  top: 623px;
+}
+.arrow-right-solid-3-icon1,
+.arrow-right-solid-4-icon1 {
+  position: absolute;
+  top: 492px;
+  left: 920px;
+  width: 48px;
+  height: 48px;
+  overflow: hidden;
+}
+.arrow-right-solid-4-icon1 {
+  top: 613px;
+}
+.simple-iconsphonepe,
+.vector-icon2,
+.vector-icon3 {
+  position: absolute;
+  top: 619px;
+  left: 853px;
+  width: 39px;
+  height: 39px;
+  overflow: hidden;
+}
+.vector-icon2,
+.vector-icon3 {
+  height: 2.24%;
+  width: 3.9%;
+  top: 63.95%;
+  right: 44.18%;
+  bottom: 33.81%;
+  left: 51.92%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.vector-icon3 {
+  height: 1.93%;
+  width: 3.97%;
+  right: 48.74%;
+  bottom: 34.11%;
+  left: 47.29%;
+}
+.lock-solid-1-icon {
+  position: absolute;
+  top: 713px;
+  left: 756px;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+}
+.nav-bar-child3 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: #000;
+  width: 1515px;
+  height: 96px;
+}
+.ayudar6,
+.reviving-nature6 {
+  position: absolute;
+  left: 68.36px;
+  display: inline-block;
+}
+.ayudar6 {
+  top: 2px;
+  font-weight: 600;
+  width: 127.67px;
+}
+.reviving-nature6 {
+  top: 43px;
+  font-size: 12px;
+  width: 96.51px;
+}
+.logo-child4,
+.mask-group-icon12 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 64.34px;
+  height: 64px;
+}
+.mask-group-icon12 {
+  object-fit: cover;
+}
+.logo6,
+.nav-bar5 {
+  position: absolute;
+  top: 18px;
+  left: 117.62px;
+  width: 196.04px;
+  height: 64px;
+}
+.nav-bar5 {
+  top: 0;
+  left: -1px;
+  width: 1515px;
+  height: 96px;
+  font-size: 34px;
+  color: #fff;
+}
+.payment {
+  position: relative;
+  background-color: rgba(255, 255, 255, 0.9);
+  width: 100%;
+  height: 982px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 22px;
+  color: rgba(0, 0, 0, 0.85);
+  font-family: Montserrat;
+}
