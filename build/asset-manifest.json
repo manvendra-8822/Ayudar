@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Ayudar/static/css/main.bef7b9e9.css",
+    "main.js": "/Ayudar/static/js/main.923fdb0d.js",
+    "index.html": "/Ayudar/index.html",
+    "main.bef7b9e9.css.map": "/Ayudar/static/css/main.bef7b9e9.css.map",
+    "main.923fdb0d.js.map": "/Ayudar/static/js/main.923fdb0d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bef7b9e9.css",
+    "static/js/main.923fdb0d.js"
+  ]
+}
