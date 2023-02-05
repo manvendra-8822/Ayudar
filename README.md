@@ -1,6 +1,6 @@
 
   # AYUDAR
-  Link to Figma file-:
+  Link to our Figma file-:
   https://www.figma.com/file/KQOflN2IIe8xCC0y6599vj/Ayudar?node-id=0%3A1&t=5uP4cOEUMe3ie1Dz-0
   
   
